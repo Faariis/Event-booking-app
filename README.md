@@ -6,4 +6,4 @@ Avanture.com is my dynamic event management web application, seamlessly blending
 
 ### Running the project
 
-To run the Spring Boot backend, use ./mvnw spring-boot:run (if using Maven) or ./gradlew bootRun (if using Gradle). For the Angular frontend, initiate with ng serve. Ensure proper configuration of the MySQL database connection based on application requirements in the .env file.
+To run the Spring Boot backend, use ./mvnw spring-boot:run (if using Maven) or ./gradlew bootRun (if using Gradle). For the Angular frontend, initiate with ng serve. Ensure proper configuration of the MySQL database connection based on application requirements.
